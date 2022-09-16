@@ -1,6 +1,6 @@
 import React from "react";
 import "./Singlecontent.css";
-import { Badge } from "@mui/icons-material";
+import Badge from '@mui/material/Badge';
 import { img_300, unavailable } from "../../config/config";
 const SingleContent = ({
   id,
