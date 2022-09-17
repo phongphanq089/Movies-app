@@ -7,7 +7,7 @@ import Container from "@mui/material/Container";
 import Movies from "./Pages/Movies/Movies";
 import Search from "./Pages/search/Search";
 import Trending from "./Pages/Trending/Trending";
-import TVmovies from "./Pages/Favorites/Favorites";
+import TVmovies from "./Pages/TVmovie/TVmovie";
 function App() {
   return (
     <Router>
